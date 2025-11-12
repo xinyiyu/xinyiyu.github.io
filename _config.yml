@@ -23,7 +23,7 @@ repository               : "xinyiyu/xinyiyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.jpg"
   name             : "Xinyi Yu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Data Science"
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
