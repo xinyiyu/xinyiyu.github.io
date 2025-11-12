@@ -358,10 +358,7 @@ compress_html:
     envs: development
 
 # Navigation Bar
-nav_pages:
-  - name: "Publications"
-    url: /publications/
-  - name: "Teaching"
-    url: /teaching/
-  - name: "CV"
-    url: /cv/
+header_pages:
+  - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/cv.md
