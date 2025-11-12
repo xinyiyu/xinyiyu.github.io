@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am a final-year Ph.D. candidate in the School of Data Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by [Prof. Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/).  
 I previously received my M.Phil. in Mathematics from the Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Can Yang](https://sites.google.com/site/eeyangc/), and my B.Sc. in Mathematics from Lanzhou University.
