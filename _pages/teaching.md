@@ -5,13 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## The Chinese University of Hong Kong, Shenzhen
-- **STA4100: Statistical Inference II** — *Spring 2025, Spring 2023*  
-- **STA2001: Probability and Statistics I/II** — *Fall 2024, Fall 2023*
+### The Chinese University of Hong Kong, Shenzhen
+- STA4100: Statistical Inference II — *2025 Spring, 2024 Spring*
+- STA2002: Probability and Statistics II — *2024 Fall*
+- STA2001: Probability and Statistics I — *2023 Fall*
 
-## The Hong Kong University of Science and Technology
-- **MATH2011: Introduction to Multivariable Calculus** — *Spring 2022, Spring 2021*  
-- **MATH1013: Calculus I** — *Fall 2021*
+### The Hong Kong University of Science and Technology
+- MATH2011: Introduction to Multivariable Calculus — *2022 Spring, 2021 Spring*  
+- MATH1013: Calculus I — *2021 Fall*
 
 ---
 
