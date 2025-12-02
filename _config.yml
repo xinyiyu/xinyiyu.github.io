@@ -320,6 +320,10 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+# Hide footer
+footer:
+  links: []
+
 
 # Archives
 #  Type
@@ -360,5 +364,6 @@ compress_html:
 # Navigation Bar
 header_pages:
   - _pages/publications.md
+  - _pages/software.md
   - _pages/teaching.md
   - _pages/cv.md
