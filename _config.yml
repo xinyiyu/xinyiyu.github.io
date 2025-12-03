@@ -365,6 +365,6 @@ compress_html:
 # Navigation Bar
 header_pages:
   - publications.md
-  - software.md
+  - /software/
   - teaching.md
   - cv.md
