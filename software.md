@@ -4,6 +4,7 @@ title: "Software"
 permalink: /software/
 author_profile: true
 nav: true
+header: true
 ---
 
 ## NicheScope: Identifying multicellular niches from spatial transcriptomics  
