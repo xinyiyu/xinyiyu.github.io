@@ -271,6 +271,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _portfolio
   - scope:
       path: ""
@@ -364,7 +373,7 @@ compress_html:
 
 # Navigation Bar
 header_pages:
-  - publications.md
-  - /software/
-  - teaching.md
-  - cv.md
+  - _pages/publications.md
+  - _pages/software.md
+  - _pages/teaching.md
+  - _pages/cv.md
