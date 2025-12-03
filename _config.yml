@@ -375,8 +375,8 @@ compress_html:
     envs: development
 
 # Navigation Bar
-# header_pages:
-#   - _pages/publications.md
-#   - _pages/software.md
-#   - _pages/teaching.md
-#   - _pages/cv.md
+header_pages:
+  - _pages/publications.md
+  - _pages/software.md
+  - _pages/teaching.md
+  - _pages/cv.md
