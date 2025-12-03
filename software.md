@@ -4,8 +4,6 @@ title: "Software"
 author: "Xinyi Yu"
 permalink: /software/
 author_profile: true
-redirect_from:
-  - /software
 ---
 
 ## NicheScope: Identifying multicellular niches from spatial transcriptomics  
